@@ -25,12 +25,11 @@ Journal Rounds is a medical literature reader that brings PubMed to your phone w
 ### 📚 Personalized Research Feed
 - Follow your favorite medical journals (JAMA, NEJM, The Lancet, and 4,200+ more)
 - Get a personalized feed of the latest articles from journals you care about
-- Browse by specialty, topic, or journal
 
 ### 🔖 Organization Tools
 - **Bookmarks:** Save articles you want to read later
 - **Folders:** Organize articles into custom folders (e.g., "Cardiology Cases", "Board Prep", "Research Ideas")
-- **Reading History:** Track articles you've already read (optional, can be disabled)
+- **Reading History:** Track articles you've already read
 
 ### 🤖 AI-Powered Summaries
 - Get instant AI-generated summaries of research article abstracts
@@ -38,11 +37,6 @@ Journal Rounds is a medical literature reader that brings PubMed to your phone w
 - Extract key findings at a glance
 - Free tier: 10 summaries/month
 - Premium: Unlimited summaries
-
-### 🔍 Discovery
-- Browse by medical specialty
-- Explore journals by category
-- Search across PubMed articles
 
 ### ⚡ Modern Mobile Experience
 - Clean, intuitive interface designed for mobile
@@ -56,7 +50,6 @@ Journal Rounds is a medical literature reader that brings PubMed to your phone w
 ### Medical Students
 - Stay current with research in your study areas
 - Build a personal library of important papers
-- Prepare for exams with organized article collections
 
 ### Residents & Fellows
 - Follow journals relevant to your specialty
@@ -96,7 +89,6 @@ Journal Rounds is a medical literature reader that brings PubMed to your phone w
 - ✅ Browse and read unlimited articles from PubMed
 - ✅ Follow unlimited medical journals
 - ✅ Bookmark articles and create folders
-- ✅ Search across articles
 - ✅ 10 AI summaries per month
 
 ### Premium ($3.99/month)
@@ -225,4 +217,3 @@ Thank you for using Journal Rounds. We're honored to support your professional d
 ---
 
 *© 2025 Journal Rounds. All rights reserved.*
-
