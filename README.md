@@ -1,6 +1,6 @@
 # Journal Rounds Legal Documents
 
-Legal and support documentation for the [Journal Rounds](https://apps.apple.com) iOS app.
+Legal and support documentation for the Journal Rounds iOS app.
 
 ## Documents
 
@@ -14,9 +14,8 @@ Journal Rounds is a mobile app that helps healthcare professionals and medical s
 
 ## Contact
 
-**Email:** norain.projects@gmail.com  
-**Developer:** Norain Projects
+**Email:** norain.projects@gmail.com
 
 ---
 
-*© 2025 Norain Projects. All rights reserved.*
+*© 2025 Journal Rounds. All rights reserved.*

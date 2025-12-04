@@ -8,7 +8,7 @@
 
 ## PLEASE READ THESE TERMS OF SERVICE CAREFULLY
 
-Welcome to Journal Rounds. These Terms of Service ("Terms," "Agreement") constitute a legally binding agreement between you ("User," "you," "your") and Journal Rounds ("Company," "we," "us," "our") governing your access to and use of the Journal Rounds mobile application, website, and all related services (collectively, the "Service").
+Welcome to Journal Rounds. These Terms of Service ("Terms," "Agreement") constitute a legally binding agreement between you ("User," "you," "your") and Journal Rounds ("we," "us," "our") governing your access to and use of the Journal Rounds mobile application, website, and all related services (collectively, the "Service").
 
 BY DOWNLOADING, INSTALLING, ACCESSING, OR USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS AND OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT ACCESS OR USE THE SERVICE.
 
@@ -80,7 +80,7 @@ You are responsible for all activities that occur under your account, whether or
 ### 4.4 Account Termination by User
 You may delete your account at any time through the account settings within the Service or by contacting us at norain.projects@gmail.com. Upon account deletion, your right to access the Service will terminate, and we will delete your personal data in accordance with our Privacy Policy, subject to any legal retention requirements.
 
-### 4.5 Account Termination by Company
+### 4.5 Account Termination by Us
 We reserve the right to suspend, disable, or terminate your account and access to the Service at any time, with or without cause, and with or without notice, including but not limited to situations where we reasonably believe you have violated these Terms.
 
 ---
@@ -344,7 +344,7 @@ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO SOME OF 
 ## 13. LIMITATION OF LIABILITY
 
 ### 13.1 Exclusion of Damages
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL JOURNAL ROUNDS, ITS DEVELOPERS, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AFFILIATES, LICENSORS, OR SERVICE PROVIDERS BE LIABLE FOR ANY:
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL JOURNAL ROUNDS, ITS DEVELOPER, CONTRACTORS, OR SERVICE PROVIDERS BE LIABLE FOR ANY:
 
 - DIRECT DAMAGES (EXCEPT AS EXPRESSLY PROVIDED BELOW)
 - INDIRECT DAMAGES
@@ -384,7 +384,7 @@ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CON
 ## 14. INDEMNIFICATION
 
 ### 14.1 Your Indemnification Obligation
-You agree to indemnify, defend, and hold harmless Journal Rounds and its developers, officers, directors, employees, agents, affiliates, licensors, and service providers from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees and court costs) arising out of or relating to:
+You agree to indemnify, defend, and hold harmless Journal Rounds and its developer, contractors, and service providers from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees and court costs) arising out of or relating to:
 
 - Your use of the Service
 - Your violation of these Terms

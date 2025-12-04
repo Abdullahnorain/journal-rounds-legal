@@ -8,7 +8,7 @@
 
 ## INTRODUCTION
 
-Journal Rounds ("Company," "we," "us," "our") is committed to protecting your privacy and the security of your personal information. This Privacy Policy ("Policy") describes how we collect, use, disclose, and safeguard your information when you use our mobile application, website, and related services (collectively, the "Service").
+Journal Rounds ("we," "us," "our") is committed to protecting your privacy and the security of your personal information. This Privacy Policy ("Policy") describes how we collect, use, disclose, and safeguard your information when you use our mobile application, website, and related services (collectively, the "Service").
 
 Please read this Privacy Policy carefully. By accessing or using the Service, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not access or use the Service.
 
@@ -178,7 +178,7 @@ We may disclose your information when we believe in good faith that disclosure i
 - Enforce our Terms of Service or other agreements
 
 ### 4.4 Business Transfers
-If we are involved in a merger, acquisition, financing, reorganization, bankruptcy, or sale of company assets, your information may be transferred as part of that transaction. We will notify you of any such change in ownership or control of your personal information.
+If we are involved in a merger, acquisition, financing, reorganization, bankruptcy, or sale of assets, your information may be transferred as part of that transaction. We will notify you of any such change in ownership or control of your personal information.
 
 ### 4.5 With Your Consent
 We may share your information with third parties when you have given us your explicit consent to do so.

@@ -161,9 +161,9 @@ We take your privacy seriously:
 
 ---
 
-## Our Team
+## About
 
-Norain Projects builds tools that make healthcare professionals more effective. We combine expertise in software engineering, AI, and healthcare technology to create products that solve real problems.
+Journal Rounds was developed to make medical research more accessible to healthcare professionals.
 
 ---
 
@@ -224,7 +224,5 @@ Thank you for using Journal Rounds. We're honored to support your professional d
 
 ---
 
-*Journal Rounds is a product of Norain Projects*
-
-*© 2025 Norain Projects. All rights reserved.*
+*© 2025 Journal Rounds. All rights reserved.*
 
