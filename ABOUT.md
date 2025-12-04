@@ -1,16 +1,24 @@
 # About Journal Rounds
 
+---
+
 ## Overview
 
-**Journal Rounds** is a mobile app that helps healthcare professionals and medical students discover, read, and organize medical research from PubMed. Think of it as your personal medical literature companion – making it effortless to stay current with the latest research in your field.
+Journal Rounds is a mobile app that helps healthcare professionals and medical students discover, read, and organize medical research from PubMed. Think of it as your personal medical literature companion – making it effortless to stay current with the latest research in your field.
+
+---
 
 ## Mission
 
-To make it easy for healthcare professionals to discover, understand, and organize the latest medical research from PubMed's library of over 35 million articles.
+To make it easy for healthcare professionals to discover, understand, and organize the latest medical research from PubMed's library of over 36 million articles.
+
+---
 
 ## What is Journal Rounds?
 
-Journal Rounds is a **medical literature reader** that brings PubMed to your phone with a modern interface. It's NOT a medical record system or clinical documentation tool – it's designed specifically for reading and organizing published medical research.
+Journal Rounds is a medical literature reader that brings PubMed to your phone with a modern interface. It's NOT a medical record system or clinical documentation tool – it's designed specifically for reading and organizing published medical research.
+
+---
 
 ## Core Features
 
@@ -41,6 +49,8 @@ Journal Rounds is a **medical literature reader** that brings PubMed to your pho
 - Fast, responsive performance
 - Dark mode support
 
+---
+
 ## Who Is This For?
 
 ### Medical Students
@@ -68,6 +78,8 @@ Journal Rounds is a **medical literature reader** that brings PubMed to your pho
 - Follow specialty-specific journals
 - Access medical research on-the-go
 
+---
+
 ## How It Works
 
 1. **Sign Up:** Create a free account with your email
@@ -76,23 +88,29 @@ Journal Rounds is a **medical literature reader** that brings PubMed to your pho
 4. **Read & Organize:** Bookmark articles, create folders, and stay organized
 5. **Go Premium (Optional):** Unlock unlimited AI summaries
 
+---
+
 ## What's Free, What's Premium?
 
 ### Free Forever
-✅ Browse and read unlimited articles from PubMed  
-✅ Follow unlimited medical journals  
-✅ Bookmark articles and create folders  
-✅ Search across articles  
-✅ 10 AI summaries per month
+- ✅ Browse and read unlimited articles from PubMed
+- ✅ Follow unlimited medical journals
+- ✅ Bookmark articles and create folders
+- ✅ Search across articles
+- ✅ 10 AI summaries per month
 
 ### Premium ($3.99/month)
-✨ Unlimited AI-powered article summaries  
-✨ Priority access to new features  
-✨ First month free for new subscribers
+- ✨ Unlimited AI-powered article summaries
+- ✨ Priority access to new features
+- ✨ First month free for new subscribers
+
+---
 
 ## Data Source
 
-All medical articles in Journal Rounds come from **PubMed**, the free database of biomedical literature maintained by the U.S. National Library of Medicine. PubMed contains over 35 million citations from:
+All medical articles in Journal Rounds come from **PubMed** (https://pubmed.ncbi.nlm.nih.gov/), the free database of biomedical literature maintained by the U.S. National Library of Medicine (NLM), part of the National Institutes of Health (NIH).
+
+PubMed contains over 36 million citations from:
 - MEDLINE (medical journals)
 - Life science journals
 - Online books and articles
@@ -100,13 +118,21 @@ All medical articles in Journal Rounds come from **PubMed**, the free database o
 
 Journal Rounds makes this vast library accessible and easy to navigate on your mobile device.
 
+### Attribution Statement
+This product uses publicly available data from the U.S. National Library of Medicine (NLM), National Institutes of Health, Department of Health and Human Services. NLM is not responsible for the product and does not endorse or recommend this or any other product.
+
+### No Affiliation with Publishers
+Journal Rounds is an independent application. We are NOT affiliated with, endorsed by, sponsored by, or officially connected with any medical journal or publisher (including NEJM, The Lancet, JAMA, BMJ, Nature, or any other publication). Journal names displayed in our app represent standard bibliographic attribution to identify the source of published research.
+
+---
+
 ## Important Disclaimers
 
 ### ⚠️ Not Medical Advice
-Journal Rounds provides access to medical research articles but **does NOT provide medical advice, diagnosis, or treatment recommendations**. Content is for informational and educational purposes only. Always consult qualified healthcare professionals for medical decisions.
+Journal Rounds provides access to medical research articles but does NOT provide medical advice, diagnosis, or treatment recommendations. Content is for informational and educational purposes only. Always consult qualified healthcare professionals for medical decisions.
 
 ### ⚠️ Not a Medical Record System
-Journal Rounds is **not designed for patient care documentation**. Do not use it to:
+Journal Rounds is not designed for patient care documentation. Do not use it to:
 - Store patient records or health information
 - Document clinical encounters
 - Manage patient data
@@ -121,47 +147,50 @@ AI-generated summaries are tools to assist with reading comprehension, not clini
 - Consult current clinical guidelines and expert colleagues
 - Recognize that medical research evolves
 
+---
+
 ## Privacy & Security
 
 We take your privacy seriously:
+
 - **Your data belongs to you:** Export or delete it anytime
 - **No selling data:** We never sell your personal information
 - **Secure storage:** Industry-standard encryption for all data
 - **Minimal collection:** We only collect what's needed to provide the service
-- **Transparent practices:** See our full Privacy Policy for details
+- **Transparent practices:** See our full [Privacy Policy](PRIVACY_POLICY) for details
 
-## Technology
-
-Journal Rounds is built with modern, reliable technology:
-- **Frontend:** React Native (Expo) for smooth iOS experience
-- **Backend:** Supabase (PostgreSQL) for secure, scalable data storage
-- **AI:** Google Gemini for intelligent article summaries
-- **Data Source:** PubMed/NCBI public API
-- **Subscriptions:** RevenueCat for seamless payment processing
+---
 
 ## Our Team
 
-**Norain Projects** builds tools that make healthcare professionals more effective. We combine expertise in software engineering, AI, and healthcare technology to create products that solve real problems.
+Norain Projects builds tools that make healthcare professionals more effective. We combine expertise in software engineering, AI, and healthcare technology to create products that solve real problems.
+
+---
 
 ## Contact & Support
 
 We're here to help:
+
 - **Email:** norain.projects@gmail.com
 - **Feature Requests:** Tell us what you need
 - **Bug Reports:** Help us improve by reporting issues
 - **Feedback:** Your input shapes Journal Rounds
+
+---
 
 ## Version Information
 
 - **Current Version:** 1.0.0
 - **Platform:** iOS (iPhone)
 - **Minimum iOS Version:** 15.1
-- **Last Updated:** November 2025
+- **Last Updated:** December 2025
+
+---
 
 ## Legal
 
-- [Privacy Policy](./PRIVACY_POLICY.md)
-- [Terms of Service](./TERMS_OF_SERVICE.md)
+- [Privacy Policy](PRIVACY_POLICY)
+- [Terms of Service](TERMS_OF_SERVICE)
 
 ---
 
@@ -195,5 +224,7 @@ Thank you for using Journal Rounds. We're honored to support your professional d
 
 ---
 
-*Journal Rounds is a product of Norain Projects*  
+*Journal Rounds is a product of Norain Projects*
+
 *© 2025 Norain Projects. All rights reserved.*
+
